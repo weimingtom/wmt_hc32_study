@@ -1,7 +1,7 @@
 # wmt_hc32_study
 My HC32 study
 
-## HC460 dev sdk  
+## HC32F460 dev sdk  
 * search baidupan, hc32f46x_ddl_Rev1.2.0.zip  
 
 ## HC32F460JETA-LQFP48  
