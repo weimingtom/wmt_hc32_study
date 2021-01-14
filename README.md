@@ -1,5 +1,5 @@
 # wmt_hc32_study
-My HC32 study
+My HC32F460 study  
 
 ## HC32F460 dev sdk  
 * search baidupan, hc32f46x_ddl_Rev1.2.0.zip  
