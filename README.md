@@ -26,3 +26,8 @@ search baidupan, HC32F460JETA核心板_四季物联
 
 ## HC32F460PETB-LQFP100  
 https://www.hdsc.com.cn/Category83-1487  
+
+## mdk5 plugin    
+search baidupan, HDSC.HC32F46x.1.0.6.pack  
+other hc32 mcu, see github_com_hdscmcu_pack-master.zip, or https://github.com/hdscmcu/pack  
+
